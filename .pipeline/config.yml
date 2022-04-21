@@ -1,0 +1,24 @@
+
+general:
+steps:
+  gctsDeploy:
+    host: 'http://hana4poc.zwtkfpvhnzsehekvcftg5kfdud.rx.internal.cloudapp.net:8002'
+    client: '000'
+    abapCredentialsId: 'ABAPUserPasswordCredentialsId'
+    repository: 'sapshameera-SAPDEvopsfuj'
+    remoteRepositoryURL: 'https://github.com/sapshameera/SAPDevopsfuj.git'
+    role: 'TARGET'
+    vSID: 'S4D'
+    branch: 'main'
+    scope: 'LASTACTION'
+    rollback: true
+gctsExecuteABAPUnitTests:
+    host: 'http://hana4poc.zwtkfpvhnzsehekvcftg5kfdud.rx.internal.cloudapp.net:8002'
+    client: '000'
+    abapCredentialsId: 'ABAPUserPasswordCredentialsId'
+    repository: 'sapshameera-SAPDEvopsfuj'
+  gctsRollback:
+    host: 'http://hana4poc.zwtkfpvhnzsehekvcftg5kfdud.rx.internal.cloudapp.net:8002'
+    client: '000'
+    abapCredentialsId: 'ABAPUserPasswordCredentialsId'
+    repository: 'sapshameera-SAPDEvopsfuj'
