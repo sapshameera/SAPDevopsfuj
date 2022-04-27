@@ -6,3 +6,4 @@
 REPORT ZFJ_DMO_01.
 Write: 'HK'.
 Write: 'Hello World!'.
+Write: 'Hello World!...'.
