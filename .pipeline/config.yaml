@@ -1,23 +1,23 @@
 general:
 steps:
   gctsDeploy:
-    host: 'http://fjh-db-app.qyo5jn25ypqu3n5bri02afcsne.rx.internal.cloudapp.net:8080'
+    host: 'http://FJH-DB-APP.qyo5jn25ypqu3n5bri02afcsne.rx.internal.cloudapp.net:8081'
     client: '200'
     abapCredentialsId: 'ABAPUserPasswordCredentialsId'
     repository: 'sapshameera-sapdevopsfuj'
     remoteRepositoryURL: 'https://github.com/sapshameera/SAPDevopsfuj.git'
     role: 'TARGET'
-    vSID: 'S4D'
+    vSID: 'HAC'
     branch: 'main'
     scope: 'CRNTCOMMIT'
     rollback: false
   gctsExecuteABAPUnitTests:
-    host: 'http://fjh-db-app.qyo5jn25ypqu3n5bri02afcsne.rx.internal.cloudapp.net:8080'
+    host: 'http://FJH-DB-APP.qyo5jn25ypqu3n5bri02afcsne.rx.internal.cloudapp.net:8081'
     client: '200'
     abapCredentialsId: 'ABAPUserPasswordCredentialsId'
     repository: 'sapshameera-sapdevopsfuj'
   gctsRollback:
-    host: 'http://fjh-db-app.qyo5jn25ypqu3n5bri02afcsne.rx.internal.cloudapp.net:8080'
+    host: 'http://FJH-DB-APP.qyo5jn25ypqu3n5bri02afcsne.rx.internal.cloudapp.net:8081'
     client: '200'
     abapCredentialsId: 'ABAPUserPasswordCredentialsId'
     repository: 'sapshameera-sapdevopsfuj'
