@@ -5,9 +5,10 @@ class Z2CL_HACKATHON_MATHS_OPERATION definition
 
 public section.
 
-  class-data NUM1 type NUMC5 .
-  class-data NUM2 type NUMC5 .
-  class-data RESULT type NUMC5 .
+  data NUM1 type NUMC5 .
+  data NUM2 type NUMC5 .
+  data RESULT type NUMC5 .
 
   methods ADD .
   methods SUBTRACT .
+  methods MULTIPLY .
