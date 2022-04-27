@@ -15,4 +15,4 @@ CALL METHOD maths_operation->add
     .
 
 write: 'Hello team !!'.
-write: /, 'Sum is ', maths_operation->result.
+write: /, 'Sum of ', maths_operation->num1 , 'and ' ,  maths_operation->num2, 'is ', maths_operation->result.
