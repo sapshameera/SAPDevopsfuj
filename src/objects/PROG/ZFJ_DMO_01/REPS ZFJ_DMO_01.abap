@@ -8,3 +8,4 @@ Write: 'HK'.
 Write: 'Hello World!'.
 Write: 'Hello World!...'.
 Write: 'Hello World!...3'.
+Write: 'Hello World!...4'.
