@@ -1,0 +1,18 @@
+[
+ {
+  "table":"TVASP",
+  "data":
+  [
+   {
+    "MANDT":"200",
+    "AUFSP":"01",
+    "AUART":"ZOR"
+   },
+   {
+    "MANDT":"200",
+    "AUFSP":"03",
+    "AUART":"ZOR"
+   }
+  ]
+ }
+]

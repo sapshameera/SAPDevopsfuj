@@ -1,0 +1,20 @@
+[
+ {
+  "table":"TVAKT",
+  "data":
+  [
+   {
+    "MANDT":"200",
+    "SPRAS":"D",
+    "AUART":"ZOR",
+    "BEZEI":"Terminauftrag"
+   },
+   {
+    "MANDT":"200",
+    "SPRAS":"E",
+    "AUART":"ZOR",
+    "BEZEI":"Demo"
+   }
+  ]
+ }
+]

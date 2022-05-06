@@ -1,0 +1,34 @@
+[
+ {
+  "table":"TVAKZ",
+  "index":
+  [
+   {
+    "columns":
+    [
+     {
+      "key":"MANDT",
+      "value":"200"
+     },
+     {
+      "key":"VKORG",
+      "value":"0001"
+     },
+     {
+      "key":"VTWEG",
+      "value":"01"
+     },
+     {
+      "key":"SPART",
+      "value":"01"
+     },
+     {
+      "key":"AUART",
+      "value":"ZOR"
+     }
+    ],
+    "hash":"uTMGgqtRZWE6R9Szrx9qQfIrDuY="
+   }
+  ]
+ }
+]
