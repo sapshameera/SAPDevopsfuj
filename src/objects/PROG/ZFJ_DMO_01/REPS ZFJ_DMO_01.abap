@@ -10,3 +10,4 @@ Write: 'Hello World!...'.
 Write: 'Hello World!...3'.
 Write: 'Hello World!...4'.
 Write: 'Hello World!...5'.
+Write: 'Hello World!...6'.
