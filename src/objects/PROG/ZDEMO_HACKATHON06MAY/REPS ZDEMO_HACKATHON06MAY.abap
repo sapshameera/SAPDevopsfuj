@@ -17,7 +17,6 @@ TYPES:
     waerk TYPE waerk,
   END OF ty_vbak.
 
-
 DATA:
       gr_table TYPE REF TO CL_sALV_TABLE.
 
